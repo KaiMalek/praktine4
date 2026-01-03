@@ -1,0 +1,8 @@
+Saskaita:
+
+42  Kiaulienos sonine su keptu kiausiniu    102.90 €
+2  Keksiukas su vysnia                     1.98 €
+2  Prancuziskas skrebutis                  3.98 €
+
+Mokesciai 21%                       22.86 Eur
+Galutine kaina:                         131.72 Eur
